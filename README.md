@@ -27,7 +27,7 @@ Keeper App is a simple notes-taking application built with ReactJS and Material 
   git clone https://github.com/your-username/keeper-app.git
   cd keeper-app
   npm install
-  npm start
+  npm start ```
 
 ## Contributions
 Contributions are welcome! Feel free to open an issue or submit a pull request.
